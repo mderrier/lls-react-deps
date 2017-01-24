@@ -4,8 +4,8 @@
   "description": "Metamodule contains react stuff",
   "main": "index.js",
   "repository": {
-     "type": "git",
-     "url": "https://github.com/mderrier/lls-react-deps.git" 
+    "type": "git",
+    "url": "https://github.com/mderrier/lls-react-deps.git"
   },
   "license": "MIT",
   "dependencies": {
@@ -24,5 +24,9 @@
     "react-sticky": "5.0.5",
     "react-tooltip": "1.2.1",
     "react-vendor-prefix": "0.0.1"
+  },
+  "scripts": {
+    "postinstall": "npm i readme-generator -g",
+    "precommit": "readme"
   }
 }
