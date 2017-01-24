@@ -31,8 +31,8 @@
     "husky": "^0.13.1"
   },
   "scripts": {
-    "postinstall": "npm i readme-generator -g",
-    "precommit": "readme && git add README.md"
+    "postinstall": "npm i https://github.com/mderrier/package-json-to-readme.git -g",
+    "precommit": "readme package.json && git add README.md"
   },
   "license": "MIT",
   "peerDependencies": {
