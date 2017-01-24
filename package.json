@@ -32,7 +32,7 @@
   },
   "scripts": {
     "postinstall": "npm i https://github.com/mderrier/package-json-to-readme.git -g",
-    "precommit": "readme package.json && git add README.md"
+    "precommit": "readme package.json > README.md && git add README.md"
   },
   "license": "MIT",
   "peerDependencies": {
