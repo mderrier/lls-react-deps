@@ -2,7 +2,7 @@
   "name": "lls-react-deps",
   "description": "Metamodule contains react stuff",
   "homepage": "https://github.com/mderrier/lls-react-deps#readme",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "repository": {
     "type": "git",

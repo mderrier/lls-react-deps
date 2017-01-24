@@ -1,3 +1,11 @@
+<a name="1.0.3"></a>
+## 1.0.3 (2017-01-24)
+
+* fix(doc): use package-to-readme ([8420c13](https://github.com/mderrier/lls-react-deps/commit/8420c13))
+* fix(doc): use package-to-readme ([e85650d](https://github.com/mderrier/lls-react-deps/commit/e85650d))
+
+
+
 <a name="1.0.2"></a>
 ## 1.0.2 (2017-01-24)
 
