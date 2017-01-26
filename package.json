@@ -30,8 +30,8 @@
   },
   "devDependencies": {
     "husky": "^0.13.1",
-    "react": "15.4.2",
-    "react-dom": "15.4.2"
+    "react": "15.3.1",
+    "react-dom": "15.3.1"
   },
   "scripts": {
     "postinstall": "npm i https://github.com/mderrier/package-json-to-readme.git -g",
