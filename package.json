@@ -2,6 +2,7 @@
   "name": "lls-react-deps",
   "description": "Metamodule contains react stuff",
   "homepage": "https://github.com/mderrier/lls-react-deps#readme",
+  "private": true,
   "version": "1.0.3",
   "main": "index.js",
   "repository": {
@@ -20,6 +21,7 @@
     "react-helmet": "2.3.1",
     "react-helmet-itemprop": "0.0.5",
     "react-motion": "0.4.5",
+    "react-pick-datetime": "https://github.com/mderrier/react-pick-datetime.git",
     "react-slider": "0.6.1",
     "react-sticky": "5.0.5",
     "react-tooltip": "1.2.1",
@@ -28,6 +30,8 @@
     "redux-worker-middleware": "0.2.0"
   },
   "devDependencies": {
+    "react": "15.4.2",
+    "react-dom": "15.4.2",
     "husky": "^0.13.1"
   },
   "scripts": {

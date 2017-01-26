@@ -2,11 +2,6 @@
 
 Metamodule contains react stuff
 
-## Installation
-
-```sh
-npm install lls-react-deps --save
-```
 
 
 ## Dependencies
@@ -19,6 +14,7 @@ npm install lls-react-deps --save
 - **2.3.1** [react-helmet](https://www.npmjs.com/package/react-helmet)
 - **0.0.5** [react-helmet-itemprop](https://www.npmjs.com/package/react-helmet-itemprop)
 - **0.4.5** [react-motion](https://www.npmjs.com/package/react-motion)
+- **0.5.4** [react-pick-datetime](https://www.npmjs.com/package/react-pick-datetime)
 - **0.6.1** [react-slider](https://www.npmjs.com/package/react-slider)
 - **5.0.5** [react-sticky](https://www.npmjs.com/package/react-sticky)
 - **1.2.1** [react-tooltip](https://www.npmjs.com/package/react-tooltip)
@@ -28,6 +24,8 @@ npm install lls-react-deps --save
 
 ## Dev Dependencies
 
+- [react](): 15.4.2 React is a JavaScript library for building user interfaces.
+- [react-dom](): 15.4.2 React package for working with the DOM.
 - [husky](https://github.com/typicode/husky): 0.13.1 Prevents bad commit or push (git hooks, pre-commit/precommit, pre-push/prepush, post-merge/postmerge and all that stuff...)
 
 
