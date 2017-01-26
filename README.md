@@ -24,9 +24,9 @@ Metamodule contains react stuff
 
 ## Dev Dependencies
 
+- [husky](https://github.com/typicode/husky): 0.13.1 Prevents bad commit or push (git hooks, pre-commit/precommit, pre-push/prepush, post-merge/postmerge and all that stuff...)
 - [react](): 15.4.2 React is a JavaScript library for building user interfaces.
 - [react-dom](): 15.4.2 React package for working with the DOM.
-- [husky](https://github.com/typicode/husky): 0.13.1 Prevents bad commit or push (git hooks, pre-commit/precommit, pre-push/prepush, post-merge/postmerge and all that stuff...)
 
 
 ## License

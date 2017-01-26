@@ -1,3 +1,10 @@
+<a name="1.0.4"></a>
+## 1.0.4 (2017-01-26)
+
+* feat(doc): add auto-generated documentation ([3287998](https://github.com/mderrier/lls-react-deps/commit/3287998))
+
+
+
 <a name="1.0.3"></a>
 ## 1.0.3 (2017-01-24)
 
