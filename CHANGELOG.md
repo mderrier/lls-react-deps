@@ -1,3 +1,10 @@
+<a name="1.0.5"></a>
+## 1.0.5 (2017-01-26)
+
+* fix(deps): downgrade react version ([4ea4af7](https://github.com/mderrier/lls-react-deps/commit/4ea4af7))
+
+
+
 <a name="1.0.4"></a>
 ## 1.0.4 (2017-01-26)
 
